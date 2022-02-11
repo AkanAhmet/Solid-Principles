@@ -1,6 +1,6 @@
 ## Innova - Patika Java Spring Bootcamp Homework 4
 
-# S.O.L.I.D Principles (java implementation)
+# S.O.L.I.D Principles (Java implementation)
 
 * **Single responsibility principle** - A class should have only one reason to change.
 
